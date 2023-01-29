@@ -12,5 +12,5 @@ hello git 1
 hello git 1
 hello git 1
 hello git 1
-hello git 1
+hello git 1 hot-fix test
 hello git 1
