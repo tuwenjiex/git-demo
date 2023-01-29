@@ -14,3 +14,4 @@ hello git 1
 hello git 1
 hello git 1
 hello git 1 master test 
+hello git 1 hot-fix test
