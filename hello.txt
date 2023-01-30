@@ -15,3 +15,4 @@ hello git 1
 hello git 1
 hello git 1 master test 
 hello git 1 hot-fix test
+涂文杰在github网站上加的一段话，本地没有。
